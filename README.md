@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=007ACC)
+<!--
+![Php](https://img.shields.io/badge/-Php-05122A?style=flat&logo=-php&logoColor=2C2255)&nbsp;
+![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=c#&logoColor=2C2255)&nbsp; -->
 
 
 ### ⚙️ &nbsp;GitHub Analytics
