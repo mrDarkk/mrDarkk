@@ -32,3 +32,6 @@ Here are some ideas to get you started:
 <a href="mailto:bhupendrabanothe@gmail.com"><img src="https://img.shields.io/badge/-Bhupendra Banothe-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </p>
+
+### 🤔&nbsp;Profile views counter
+![Visitor Count](https://profile-counter.glitch.me/{mrDarkk}/count.svg)
