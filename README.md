@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ![Php](https://img.shields.io/badge/-Php-05122A?style=flat&logo=-php&logoColor=2C2255)&nbsp;
 ![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=c#&logoColor=2C2255)&nbsp; -->
 
-
+<!--
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -46,6 +46,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrDarkk&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+-->
 
 ### 🤝🏻 &nbsp;Connect with Me
 
